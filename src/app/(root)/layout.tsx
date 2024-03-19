@@ -49,7 +49,6 @@ export default function Layout({
       <script src="assets/js/select2.min.js"></script>
       <script src="assets/js/counterup.min.js"></script>
       <script src="assets/js/prism.js"></script>
-      <script src="assets/js/addadult.js"></script>
       <script src="assets/js/custom.js"></script>
     </>
   );
